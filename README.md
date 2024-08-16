@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me vibhugupta261220@gamil.com
 - 😄 Pronouns: Vibhu 
- 
+- LinkedIn: https://www.linkedin.com/in/vibhu-gupta01
 
 <!---
 alphaengineer2205/alphaengineer2205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
